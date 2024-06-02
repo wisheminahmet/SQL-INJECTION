@@ -243,9 +243,11 @@ Hata mesajları, saldırganlara sistem hakkında bilgi sağlayabilir. Bu nedenle
 
 Web uygulama güvenlik duvarları (WAF) ve diğer güvenlik yazılımları, SQL injection saldırılarına karşı ek bir koruma katmanı sağlar. WAF, web trafiğini izleyerek ve analiz ederek zararlı istekleri engeller. Bu tür güvenlik çözümleri, bilinen saldırı imzalarını ve anormal davranışları tespit ederek saldırılara karşı proaktif savunma sağlar.​
 
-​
+***TEŞEKKÜRLER***
 
-​
+**Hazırlayan**​
+
+​*Ahmet Emin Doğanözü*
 
 ​
 
