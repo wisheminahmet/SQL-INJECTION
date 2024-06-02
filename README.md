@@ -46,7 +46,9 @@ sorgu = ```SELECT * FROM kullanicilar WHERE isim =' " + kullaniciAdi ' or '1' = 
 Sorgunun geri kalanını engellemek için yorum satırı karakterleri kullanılır.​
 
 ' or '1'='1' -- ​
+
 ' or '1'='1' ({ ​
+
 ' or '1'='1' /*​
 
 ​
