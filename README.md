@@ -2,6 +2,10 @@
 
 ![alt text](https://www.infinitumit.com.tr/wp-content/uploads/2022/11/What-is-a-SQL-injection.png)
 
+## **Uyarı**
+
+Bu proje, yalnızca yetkili olduğunuz ağlarda kullanılmalıdır. İzinsiz ağlara erişim yasa dışıdır ve ciddi yasal sonuçlar doğurabilir. Bu araçları kullanarak yapılan her türlü yasa dışı faaliyetten tamamen kullanıcı sorumludur.
+
 # **1-SQL Injection Nedir?**
 
 SQL enjeksiyonu, veri tabanına dayalı uygulamalara saldırmak için kullanılan bir atak tekniğidir; burada saldırgan SQL dili özelliklerinden faydalanarak standart uygulama ekranındaki ilgili alana yeni SQL ifadelerini ekler. (Örneğin saldırgan, veritabanı içeriğini kendisine aktarabilir).​
