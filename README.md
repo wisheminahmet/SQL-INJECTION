@@ -145,7 +145,7 @@ SQLMap, kullanıcılara geniş bir özellik seti sunar. Bunlar arasında veritab
 
 SQLMap, genellikle siber güvenlik uzmanları, penetrasyon testi uzmanları ve etik hackerlar tarafından kullanılır. Aracın asıl amacı, web uygulamalarındaki SQL injection zafiyetlerini tespit ederek bu açıkları kapatmak ve sistemlerin daha güvenli hale gelmesini sağlamaktır.
 
-# Saldırı
+## SQLMap ile Saldırı
 
 ### **3.3.1 Hedef URL Belirleme​**
 
